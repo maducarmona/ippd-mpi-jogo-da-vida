@@ -1,5 +1,11 @@
 {
      "files.associations": {
-          "type_traits": "c"
+          "type_traits": "c",
+          "array": "c",
+          "bitset": "c",
+          "string_view": "c",
+          "format": "c",
+          "initializer_list": "c",
+          "span": "c"
      }
 }
