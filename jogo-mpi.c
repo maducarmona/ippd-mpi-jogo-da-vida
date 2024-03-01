@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TAM 10
+#define TAM 20
 #define iter 10
 
 int contar_vizinhos(int matriz_aux[TAM][TAM], int x, int y, int pedaco_matriz)
